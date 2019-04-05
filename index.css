@@ -1,0 +1,14 @@
+div {
+    background-color: aqua;
+    padding: 20px;
+  }
+  
+  section {
+    background-color: lightgray;
+    padding: 20px;
+  }
+  
+  p {
+    background-color: lightpink;
+    padding: 20px;
+  }
